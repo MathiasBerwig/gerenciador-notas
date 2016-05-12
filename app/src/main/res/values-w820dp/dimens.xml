@@ -1,0 +1,7 @@
+<!--
+    Margens para telas com mais de 820dp de espaço disponível. Isso inclui dispositivos com telas de
+    7" e 10" em modo paisagem (~960dp e 1280dp respectivamente).
+-->
+<resources>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+</resources>
