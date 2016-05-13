@@ -1,11 +1,18 @@
 <resources>
     <string name="app_name">Gerenciador de Notas</string>
 
+    <!-- Título da Activity Principal -->
+    <string name="title_activity_main">@string/app_name</string>
+
     <!-- Ações -->
+    <string name="action_excluir_nota">Excluir</string>
+    <string name="action_editar_nota">Editar</string>
     <string name="action_salvar_nota">Salvar</string>
     <string name="action_descartar_alteracoes_nota">Cancelar</string>
 
     <!-- Edição e listagem de Nota -->
     <string name="hint_titulo_nota">Título da Nota</string>
     <string name="hint_texto_nota">Escreva suas anotações aqui.</string>
+    <string name="erro_salvar_nota">Falha ao salvar alterações. Tente novamente.</string>
+    <string name="msg_descartar_alteracoes_nota">Você deseja descartar as alterações feitas nesta nota?</string>
 </resources>
