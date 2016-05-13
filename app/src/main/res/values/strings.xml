@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">Gerenciador de Notas</string>
+
+    <!-- Ações -->
+    <string name="action_salvar_nota">Salvar</string>
+    <string name="action_descartar_alteracoes_nota">Cancelar</string>
+
     <!-- Edição e listagem de Nota -->
     <string name="hint_titulo_nota">Título da Nota</string>
     <string name="hint_texto_nota">Escreva suas anotações aqui.</string>
