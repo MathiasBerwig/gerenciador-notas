@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Gerenciador de Notas</string>
+    <!-- Edição e listagem de Nota -->
+    <string name="hint_titulo_nota">Título da Nota</string>
+    <string name="hint_texto_nota">Escreva suas anotações aqui.</string>
 </resources>
