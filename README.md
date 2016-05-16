@@ -20,3 +20,6 @@ Avance ao longo do log de commits para ver as etapas do projeto, desde a modelag
 
 ## Licença
 Este projeto está licenciado sob [GNU General Public License](http://www.gnu.org/licenses/gpl-3.0.html).
+
+## Ícone
+O ícone utilizado por esta aplicação está disponível gratuitamente no site [MaterialUp](http://www.materialup.com/posts/google-notes-everything-can-be-add).
