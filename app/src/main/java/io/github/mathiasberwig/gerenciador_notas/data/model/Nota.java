@@ -15,6 +15,10 @@ public class Nota implements Parcelable {
     private String conteudo;
 
     public Nota() {
+        // Valores padrão adicionados para prevenir exceções NullPointerException
+        this.id = 0L;
+        this.titulo = "";
+        this.conteudo = "";
     }
 
     public Nota(Long id, String titulo, String conteudo) {
