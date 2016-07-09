@@ -5,6 +5,9 @@ Este projeto foi criado para ser utilizado durante o minicurso **Introdução ao
 
 ![](https://raw.githubusercontent.com/MathiasBerwig/gerenciador-notas/release/captures/demo.gif?token=AMgsxOCNSwbdu0t3wnX7wtahWAhT3n13ks5XP00YwA%3D%3D)
 
+## Apresentação
+O arquivo PDF com a apresentação utilizada no minicurso está disponível para download no [Google Drive](https://drive.google.com/file/d/0B5RM3aJir_nXc2s1NlJ3ZVFqQ2s/view?usp=sharing).
+
 ## Como começar
 ### Importando o projeto
 Após configurar o Android Studio, selecione a opção ``Import project from version control`` > ``Git`` e então clone este repositório (``https://github.com/MathiasBerwig/gerenciador-notas.git``). Certifique-se de ter instalado o SDK do Android Marshmallow (API 23), pois o projeto foi baseado nele.
